@@ -24,7 +24,7 @@ let friends = [
   {
     "name":"Mike",
     "photo":"http://www.gstatic.com/tv/thumb/persons/1822/1822_v9_bb.jpg",
-    "scoes":[
+    "scores":[
         3,
         1,
         3,
