@@ -76,6 +76,9 @@ module.exports = function (app) {
       // send back to browser the best friend match
       res.json(friendsData[2])
       console.log("2")
+    }else{
+      //display random character 
+      res.json(friendsData[Math.floor(Math.random() * 3)]);
     };
     // // Push to User and Friends the data as JSON
     userData.push(user);
