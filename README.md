@@ -42,6 +42,6 @@ Friend-Finder V1
 ## Acknowledgments
 
 * Thanks to Classmates, Instructors, and TA's 
-* Bootcamp 2019
+* Bootcamp 2019-2020
 
  
